@@ -1,2 +1,2 @@
 # learndatascience
-Leraning Data Dcience
+Learning Data Dcience
